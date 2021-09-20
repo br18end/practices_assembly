@@ -1,37 +1,41 @@
-TITLE MASM Template                        (main.asm)
-
+TITLE MASM Template						(main.asm)
 ; Description:
 ; 
 ; Revision date:
-
 INCLUDE Irvine32.inc
 .data
-arreglo dword 100 dup(0)
+arreglo dword 1,2,3,4,5,6,7,8,9
 datobuscar dword ?
-sbuscar byte "Ingrese dato a buscar",0
-smostrar byte "El dato si esta en el arreglo",0
-smostrar byte "El dato no esta en el arreglo",0
+sbuscar byte "Ingrese dato a buscar ",0
+siesta byte "El dato si esta en el arreglo",0
+noesta byte "El dato no esta en el arreglo",0
 
 .code
 main PROC
-    lea ebx,arreglo
-    mov ecx,LENGHTOF arreglo
-    lea edx,sbucar
-    call writestring
-    call readint
-    mov datobuscar,eax
+	mov edx,offset sbuscar
+	call writestring
+	call readint
+	mov datobuscar,eax
+	mov ebx,offset arreglo
+	mov ecx,lengthof arreglo
 
 ciclo:
-    cmp eax,arreglo[ebx]
-    je igual
-    mov ebx,4
-    loop ciclo
+	cmp eax,[ebx]
+	je igual
+	add ebx,4
+	loop ciclo
+	jmp error
 
 igual:
-    lea edx,smostrar
-    call writestring
+	lea edx,siesta
+	call writestring
+	jmp salir
 
-    exit
+error:
+	lea edx,noesta
+	call writestring
+
+salir:
+	exit
 main ENDP
-
 END main
