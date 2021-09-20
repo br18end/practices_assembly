@@ -1,0 +1,22 @@
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.exe
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.pdb
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.xml
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Form1.resources
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Resources.resources
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.exe
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.xml
+C:\Users\Rui\Desktop\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.pdb
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.exe
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.xml
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.pdb
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.exe
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.pdb
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\bin\Debug\Arduino_Servo.xml
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Form1.resources
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\obj\x86\Debug\Arduino_Servo.Resources.resources
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rui\Desktop\Youtube and Website\Arduino - Servo with visual basic\Arduino_Servo\Arduino_Servo\obj\x86\Debug\GenerateResource.write.1.tlog
